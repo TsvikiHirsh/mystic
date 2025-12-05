@@ -2,3 +2,4 @@
 .cache/
 *.egg-info/
 *.pyc
+mystic/__info__.py
